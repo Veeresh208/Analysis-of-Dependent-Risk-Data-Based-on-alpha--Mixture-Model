@@ -1,0 +1,1 @@
+# Analysis-of-Dependent-Risk-Data-Based-on-alpha--Mixture-Model
